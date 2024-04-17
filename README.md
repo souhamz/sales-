@@ -1,20 +1,41 @@
-# sales-
-Prediction of product sales 
-1. Introduction
-1.1. Purpose of Sales Prediction
-1.2. Importance of Sales Prediction in Data Science Projects
-1.3. Scope of Sales Prediction in this Project
-2. Data Collection and Preparation
-2.1. Identifying Relevant Data Sources
-2.2. Extracting and Cleaning Data
-2.3. Handling Missing Values and Outliers
-3. Exploratory Data Analysis
-3.1. Analyzing Sales Trends and Patterns
-3.2. Identifying Correlations with Other Variables : ![correlation](https://github.com/souhamz/sales-/assets/161149087/cb0894b4-f84d-4e23-87d7-628bed69d2de)
-3.3. Visualizing Data for Insights 
-3.4. Feature Engineering for Sales Prediction
-4. Model Building and Evaluation
-4.1. Selecting Appropriate Machine Learning Algorithms
-4.2. Splitting Data into Training and Testing Sets
-4.3. Training and Tuning the Model
-4.4. Evaluating Model Performance
+Sales
+## Predection sales 
+**Author**: souha mezzi
+
+### Business problem:
+
+Predicting future sales
+
+### Data:
+The developed sales prediction model utilizes a machine learning algorithm, such as a time series forecasting technique or regression analysis, to predict future sales based on historical data and relevant features. (e.g. # obs)
+
+
+## Methods
+Evaluation Metrics:
+
+Mean Absolute Error (MAE): Measures the average absolute difference between predicted and actual sales values.
+Root Mean Squared Error (RMSE): Provides a measure of the standard deviation of the prediction errors.
+R-squared (R2) Score: Indicates the proportion of the variance in the dependent variable (sales) that is predictable from the independent variables.
+For example, after training the model on historical data, we achieved an MAE of X, RMSE of Y, and R2 score of Z, indicating that the model accurately predicts sales with minimal error.
+## Results
+
+"C:\Users\souha\Downloads\téléchargement.png"
+
+#### Visual 1 Title
+![sample image](project1_sample_image.png)
+
+> Sentence about visualization.
+
+#### Visual 2 Title
+
+## Model
+
+Here, we see the best results as far as the regression metrics and the model's performance.
+This model still has some bias. However, this model has the best performance on the testing set.
+
+
+
+### For further information
+
+
+For any additional questions, please contact **email**
